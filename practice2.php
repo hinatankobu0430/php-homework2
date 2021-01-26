@@ -5,7 +5,7 @@ $name ="Hinata";
 
 if($name = "Hinata"){
     echo "私は". $name."です";
-}elseif($name !="Hinata"){
+}else{
     echo "あなたの名前ではありません";
 }
 ?>
